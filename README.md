@@ -5,6 +5,8 @@
 ## 简介
 #### 感谢谷歌提供的GCP服务（[Google Cloud Platform，谷歌云平台服务](https://cloud.google.com)），首次注册激活GCP，你会获享3个月试用期和$300 赠金，是不是免费？
 
+（[Google Cloud 免费计划](https://cloud.google.com/free/docs/gcp-free-tier)）
+
 > 请注意：教程很详细，图很多！
 ![image.png](https://upload-images.jianshu.io/upload_images/1424124-3e55062cb5b2e046.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
