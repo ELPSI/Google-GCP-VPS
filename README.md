@@ -3,15 +3,14 @@
 ### 本文仅用于学习、记录、总结、分享云服务器自行搭建VPS的过程及方法。请遵守当地法律法规。
 
 ## 简介
-#### 感谢谷歌提供的GCP服务（[Google Cloud Platform，谷歌云平台服务](https://cloud.google.com)），首次注册激活GCP，你会获享12个月试用期和$300 赠金，是不是免费？
+#### 感谢谷歌提供的GCP服务（[Google Cloud Platform，谷歌云平台服务](https://cloud.google.com)），首次注册激活GCP，你会获享3个月试用期和$300 赠金，是不是免费？
 
 > 请注意：教程很详细，图很多！
 ![image.png](https://upload-images.jianshu.io/upload_images/1424124-3e55062cb5b2e046.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 首先你需要准备：
 - ##### 谷歌账号以及能访问谷歌站点的一台电脑（首先你要能登录谷歌GCP）
-- ##### 外币卡（VISA、Mastercard、AE）（实测招行VISA全币种卡可以）
-
+- ##### 外币卡（VISA、Mastercard、AE）（实测招行VISA全币种卡可以）（实测中行莫借记卡可以）
 
 ## 开始搭建
 ### 1. 登录 [Google Cloud Platform](https://cloud.google.com/) 激活账户填写相关信息
@@ -30,7 +29,7 @@
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1424124-6f5d7505f043f8e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 激活成功之后你会看到如下界面，并且会有提示$300美金和12个月免费试用期。
+- 激活成功之后你会看到如下界面，并且会有提示$300美3个月免费试用期。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1424124-e6e4c5ef0859c943.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
